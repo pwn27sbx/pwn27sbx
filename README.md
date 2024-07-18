@@ -16,12 +16,11 @@
   ---
 
 <br>
-        <img src="https://i.imgur.com/04VfGjP.png" width="30%" align="left"/>
-        <img src="https://i.imgur.com/ytXhXUC.png" width="30%" align="right"/>
+        <img src="https://i.imgur.com/04VfGjP.png" width="60%" align="left"/>
+        <img src="https://i.imgur.com/ytXhXUC.png" width="60%" align="right"/>
 <br><br>
 
 <br><br><br>
-  ---
 
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
