@@ -12,8 +12,10 @@
 
 <br><br>
 <div align="center">
-    <h1>KDE</h1>
-    <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="center" />
+    <pre>
+        <h1>KDE</h1>
+        <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="center" />
+    </pre>
 </div>
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
