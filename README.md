@@ -17,10 +17,11 @@
 
 <br>
         <img src="https://i.imgur.com/04VfGjP.png" width="50%"/>
+<br>
 
   ---
 
-<br><br>
+<br>
         <img src="https://i.imgur.com/ytXhXUC.png" width="50%"/>
 <br><br>
 
