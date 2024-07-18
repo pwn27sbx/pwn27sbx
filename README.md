@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     <center>
-🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty •  Firefox • mpv • feh • ranger • ani-cli
+🤖 • Arch Linux • KDE • Hyprland • Lazyvim • Kitty •  Firefox • mpv • feh • ranger • ani-cli
 🛸 • Games • Anime • Music • Code
     </center>
 </pre>
@@ -35,8 +35,6 @@
 
 <br><br>
  
-[![](https://img.shields.io/badge/zapatilla-0a66c2)](https:www.google.com)
-[![](https://img.shields.io/badge/mastodon-6364ff)]
-[![](https://img.shields.io/badge/osu!-ff66ab)]
-[![](https://img.shields.io/badge/enka.network-69899c)]
+[![](https://img.shields.io/badge/x-ffffff)](https://x.com/Fs3b4S)
+[![](https://img.shields.io/badge/reddit-FF4500)](https://www.reddit.com/user/pwn27sbx/)
 </div>
