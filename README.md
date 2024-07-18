@@ -13,7 +13,7 @@
 <br><br>
     <h3>Vas a caer gege, </h3>
     <img src="https://i.imgur.com/kcm8dOb.jpeg" width="25%" />
-    <img src="https://i.imgur.com/bhuS6d1.jpeg" width="25%" />
+    <img src="https://i.imgur.com/1jLTR9b.jpeg" width="25%" />
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
