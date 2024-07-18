@@ -20,8 +20,7 @@
     <h3 align="center">KDE</h3>
     <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="center"/>
     <h3 align="center">HYPRLAND</h3>
-<br><br>
-
+    
  ---
 
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
