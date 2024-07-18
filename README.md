@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty<br/>• Firefox • mpv • feh • ranger • ani-cli
-    🎮 • Games • Anime • Music • Code
+    🛸 • Games • Anime • Music • Code
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
