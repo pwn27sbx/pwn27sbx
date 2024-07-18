@@ -35,6 +35,6 @@
 
 <br><br>
  
-[![](https://img.shields.io/badge/x-ffffff)](https://x.com/Fs3b4S)
+[![](https://img.shields.io/badge/x-000000)](https://x.com/Fs3b4S)
 [![](https://img.shields.io/badge/reddit-FF4500)](https://www.reddit.com/user/pwn27sbx/)
 </div>
