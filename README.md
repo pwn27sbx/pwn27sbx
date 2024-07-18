@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     <h3 align="center">
-        🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty<br/>• Firefox • mpv • feh • ranger • ani-cli
+        🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty • Firefox • mpv • feh • ranger • ani-cli
         🛸 • Games • Anime • Music • Code
     </h3>
 </pre>
