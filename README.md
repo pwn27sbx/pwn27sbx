@@ -13,8 +13,10 @@
 <br><br>
 <div align="center">
     <pre>
-        <h3>KDE</h3>
-        <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="center" />
+        <h3>Rice</h3>
+        <br>
+        <p align="center">
+        <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="left" />
     </pre>
 </div>
 <br><br>
