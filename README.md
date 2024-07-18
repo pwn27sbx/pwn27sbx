@@ -30,11 +30,14 @@
 <div align="center">
 <br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU1Nzh1N2ZlbmVsMzgzcW96aHMydDBoeWllcmVqdnVjd2wwdXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU1Nzh1N2ZlbmVsMzgzcW96aHMydDBoeWllcmVqdnVjd2wwdXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU1Nzh1N2ZlbmVsMzgzcW96aHMydDBoeWllcmVqdnVjd2wwdXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU1Nzh1N2ZlbmVsMzgzcW96aHMydDBoeWllcmVqdnVjd2wwdXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU1Nzh1N2ZlbmVsMzgzcW96aHMydDBoeWllcmVqdnVjd2wwdXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="100"/>
 </div>
-<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
-<br>
- 
+<br><br>
+
 [![](https://img.shields.io/badge/x-000000)](https://x.com/Fs3b4S)
 [![](https://img.shields.io/badge/reddit-FF4500)](https://www.reddit.com/user/pwn27sbx/)
 </div>
