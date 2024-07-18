@@ -12,7 +12,7 @@
 
 <br><br>
 <h1>KDE</h1>
-<img src="https://i.imgur.com/04VfGjP.png" width="25%" align="left/>
+<img src="https://i.imgur.com/04VfGjP.png" width="50%" align="left/>
 
     
 <br><br>
