@@ -10,7 +10,7 @@
 
 <pre>
     <center>
-        Todo este texto deberia estar centrado
+sTodo este texto deberia estar centrado
     </center>
 </pre>
 <br><br>
