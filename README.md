@@ -16,11 +16,11 @@
   ---
 
 <br>
-        <img src="https://i.imgur.com/04VfGjP.png" width="47%" align="left"/>
-        <h3>KDE</h3>
-        <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="right"/>
-        <br><br>
-        <h3>Hyprland</h3>
+    <img src="https://i.imgur.com/04VfGjP.png" width="47%" align="left"/>
+    <h3>KDE</h3>
+    <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="right"/>
+    <br><br>
+    <h3>Hyprland</h3>
 <br><br>
 
  ---
