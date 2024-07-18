@@ -18,8 +18,7 @@
 <br>
     <img src="https://i.imgur.com/04VfGjP.png" width="47%" align="left"/>
     <h3 align="left">KDE</h3>
-    <br>
-    <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="right"/>
+    <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="right"/><br>
     <h3 align="right">Hyprland</h3>
 <br><br>
 
