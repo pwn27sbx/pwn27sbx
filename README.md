@@ -22,8 +22,8 @@
     <br><br>
     <h3 align="center">HYPRLAND</h3>
     <img src="https://i.imgur.com/ytXhXUC.png" width="65%" align="center"/>
-    <br>
 </div>
+<br>
 
  ---
 
