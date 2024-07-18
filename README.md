@@ -15,7 +15,7 @@
     <pre>
         <h3>Rice</h3>
         <br>
-        <p align="center">
+        <p align="center"> KDE </p>
         <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="left" />
     </pre>
 </div>
