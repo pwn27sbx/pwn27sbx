@@ -12,10 +12,13 @@
 
 <br><br>
 <pre>
-    <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="right" />
+    <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="left" />
+    <img src="https://i.imgur.com/P6FoC2Q.jpeg" width="25%" align="center" />
+
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
