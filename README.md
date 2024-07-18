@@ -13,7 +13,7 @@
 <br><br>
 <div align="center">
     <pre>
-        <h1>KDE</h1>
+        <h3>KDE</h3>
         <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="center" />
     </pre>
 </div>
