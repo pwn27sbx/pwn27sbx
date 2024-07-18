@@ -29,7 +29,7 @@
 
 <div align="center">
 <br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I3b2kzZXQ4a3JiMGJnZTc2cXlrbGpxNXZxMXg1b3ZrMTZidDk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6yBrLCYnyAt5S/giphy.gif" width="150"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ295eDVpaHkzeWZ2ZTBkMDl1dnIwN3lyOHVodmpjZW5lNmZ1ZWx0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXW1ZMevfRjUY/giphy.gif" width="150"/>
 </div>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
