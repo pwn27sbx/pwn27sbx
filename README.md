@@ -12,9 +12,7 @@
 
 <br><br>
 <h1>KDE</h1>
-<img src="https://i.imgur.com/04VfGjP.png" width="50%" align="left/>
-
-    
+<img src="https://i.imgur.com/04VfGjP.png" width="50%" align="left" />
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
