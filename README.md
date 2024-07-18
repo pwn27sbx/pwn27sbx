@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     <div style="text-align: center">
-         🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty • Firefox <br/>• mpv • feh • ranger • ani-cli
+        🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty • Firefox • mpv • feh • ranger • ani-cli
         💻 System programming languages • DevOps 
         📖 Software architecture • Distributed systems
         🎮 Music • Games • Anime • Code • Art
