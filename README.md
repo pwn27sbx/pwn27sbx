@@ -13,8 +13,8 @@
 <br><br>
 <pre>
     <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="right" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=140&lines=Vas+a+caer+gege" width="70%" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=140&lines=Mi+gallo+itadori+ganara" width="70%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=20&height=140&lines=Vas+a+caer+gege" width="70%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Mi+gallo+itadori+ganara" width="70%" />
     <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="left" />
 </pre>
 <br><br>
