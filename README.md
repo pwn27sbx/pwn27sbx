@@ -15,8 +15,9 @@
 <h3>RICE</h3>
 
   ---
+
+<br>
 <div align="center">
-    <br>
     <h3 align="center">KDE</h3>
     <img src="https://i.imgur.com/04VfGjP.png" width="65%" align="center"/>
     <br><br>
