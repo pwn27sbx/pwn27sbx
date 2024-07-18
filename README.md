@@ -4,10 +4,7 @@
 <br><br>
 <pre>
     🦄 Arch Linux • KDE • Hyprland • Lazyvim • Kitty<br/>• Firefox • mpv • feh • ranger • ani-cli
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
