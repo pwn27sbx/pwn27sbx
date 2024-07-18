@@ -20,10 +20,10 @@
         <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="right"/>
 <br><br>
 
-<h3>social</h3>
 
  ---
 
+<h3>social</h3>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
 <br><br>
