@@ -14,6 +14,7 @@
 
   ---
 
+<br>
         <h3>Rice</h3>
         <img src="https://i.imgur.com/04VfGjP.png" width="50%"/>
         <img src="https://i.imgur.com/ytXhXUC.png" width="50%"/>
