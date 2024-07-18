@@ -16,13 +16,8 @@
   ---
 
 <br>
-        <img src="https://i.imgur.com/04VfGjP.png" width="50%"/>
-<br><br>
-
-  ---
-
-<br>
-        <img src="https://i.imgur.com/ytXhXUC.png" width="50%"/>
+        <img src="https://i.imgur.com/04VfGjP.png" width="30%" align="left"/>
+        <img src="https://i.imgur.com/ytXhXUC.png" width="30%" align="right"/>
 <br><br>
 
   ---
