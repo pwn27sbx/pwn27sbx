@@ -12,7 +12,7 @@
 
 <br><br>
     <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="right" />
-    <h1>Vas a caer gege, mi gallo ganara</h1>
+    <p>Vas a caer gege, mi gallo ganara</p>
     <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="left" />
 
 <br><br>
