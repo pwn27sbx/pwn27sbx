@@ -13,8 +13,7 @@
 <br><br>
     <pre>
         <h3>Rice</h3>
-        <br>
-        <img src="https://i.imgur.com/04VfGjP.png" width="70%" />
+        <img src="https://i.imgur.com/04VfGjP.png" width="50%" />
     </pre>
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
