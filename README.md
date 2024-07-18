@@ -16,11 +16,11 @@
   ---
 
 <br>
-    <img src="https://i.imgur.com/04VfGjP.png" width="47%" align="center"/>
     <h3 align="center">KDE</h3>
-    <img src="https://i.imgur.com/ytXhXUC.png" width="47%" align="center"/>
+    <img src="https://i.imgur.com/04VfGjP.png" width="65%" align="center"/>
     <h3 align="center">HYPRLAND</h3>
-    
+    <img src="https://i.imgur.com/ytXhXUC.png" width="65%" align="center"/>
+
  ---
 
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
