@@ -13,7 +13,7 @@
 <br><br>
     <img src="https://i.imgur.com/c0oNf1c.jpeg" width="25%" align="left" />
     <img src="https://readme-typing-svg.demolab.com?font=Cascadia&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Vas+a+caer+gege" width="70%" />
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Mi+gallo+itadori+ganara" width="70%" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=500&size=50&duration=4000&pause=300&color=ac88c6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Mi+gallo+itadori+ganara" width="70%" />
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
