@@ -15,8 +15,8 @@
         <h3>Rice</h3>
         <br>
         <p align="right"> KDE </p>
-        <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="left" />
     </pre>
+        <img src="https://i.imgur.com/04VfGjP.png" width="70%" align="left" />
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
