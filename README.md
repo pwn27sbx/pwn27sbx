@@ -18,10 +18,10 @@
 
 <div align="center">
     <h3 align="center">KDE</h3>
-    <img src="https://i.imgur.com/04VfGjP.png" width="50%" align="center"/>
+    <img src="https://i.imgur.com/G2fY2Hj.png" width="75%" align="center"/>
     <br><br>
     <h3 align="center">HYPRLAND</h3>
-    <img src="https://i.imgur.com/ytXhXUC.png" width="50%" align="center"/>
+    <img src="https://i.imgur.com/ytXhXUC.png" width="75%" align="center"/>
 </div>
 <br>
 
