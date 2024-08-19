@@ -21,7 +21,7 @@
     <img src="https://i.imgur.com/G2fY2Hj.png" width="95%" align="center"/>
     <br><br>
     <h3 align="center">HYPRLAND</h3>
-    <img src="https://i.imgur.com/ytXhXUC.png" width="95%" align="center"/>
+    <img src="https://i.imgur.com/ekQQwSu.png" width="95%" align="center"/>
 </div>
 <br>
 
