@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     <center>
-🤖 • Arch Linux • KDE • Hyprland • Lazyvim • Kitty •  Firefox • mpv • feh • ranger • ani-cli
+🤖 • Arch Linux • Hyprland • Lazyvim • Ghostty •  Zen 
 🛸 • Games • Anime • Music • Code
     </center>
 </pre>
