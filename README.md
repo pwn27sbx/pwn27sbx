@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     <center>
- • Arch Linux • Hyprland • Lazyvim • Ghostty •  Zen 
+ • Arch Linux • Hyprland • Lazyvim • Ghostty • Zen 
  • Games • Anime • Music • Code
     </center>
 </pre>
