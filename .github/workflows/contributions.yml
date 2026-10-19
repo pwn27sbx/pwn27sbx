@@ -1,0 +1,78 @@
+# The five contribution graphs for the profile README, generated daily and on demand and
+# published together to the `output` branch the README embeds from:
+#   skyline.svg                          — ASCII neon city (pinkpixel-dev/skyline)
+#   snake.svg                            — Snake & Commits, blue + frame (dahan8473)
+#   pacman-contribution-graph{,-dark}.svg — Pac-Man (abozanona)
+#   breakout-contribution-graph{,-dark}.svg — Breakout (same action)
+#   rainbow-skyline.svg                  — 3D rainbow skyline (yoshi389111)
+#
+# First run: until this workflow runs once, the graph cells in the README render empty. If a run
+# fails later, the `output` branch keeps its last good SVGs, so the page keeps the previous set.
+name: Contribution graphs (city · snake · arcade · skyline)
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write # publish the SVGs to the `output` branch (nothing else)
+
+jobs:
+  graphs:
+    runs-on: ubuntu-latest
+    steps:
+      # Needed so .github/3d-settings.json is available to the skyline generator.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7
+        with:
+          go-version: stable
+
+      - name: ASCII neon city
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p out
+          go run github.com/pinkpixel-dev/skyline@v1.0.0 -theme neon -svg out/skyline.svg "${{ github.repository_owner }}"
+
+      - name: Snake & Commits (blue, framed)
+        uses: dahan8473/snake-and-commits@4ec3eec8531727c9679cd9f8e1c7d60ba1dc7b23 # v1
+        with:
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake.svg
+          theme: blue
+          frame: "true"
+
+      - name: Pac-Man
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # v5.3.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Breakout
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # v5.3.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: breakout
+
+      - name: 3D rainbow skyline
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-settings.json
+
+      - name: Collect every SVG into one folder
+        run: |
+          cp dist/*.svg out/
+          cp profile-3d-contrib/*.svg out/
+          ls -l out/
+
+      - name: Publish to the `output` branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

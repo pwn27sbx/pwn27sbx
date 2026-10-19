@@ -1,0 +1,28 @@
+{
+  "type": "rainbow",
+  "fileName": "rainbow-skyline.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#002c38",
+  "strongColor": "#268bd3",
+  "weakColor": "#839395",
+  "radarColor": "#268bd3",
+  "growingAnimation": true,
+  "saturation": "55%",
+  "contribLightness": ["25%", "32%", "38%", "44%", "50%"],
+  "duration": "10s",
+  "hueRatio": -7,
+  "darkMode": {
+    "type": "rainbow",
+    "fileName": "rainbow-skyline.svg",
+    "backgroundColor": "#001419",
+    "foregroundColor": "#9eabac",
+    "strongColor": "#268bd3",
+    "weakColor": "#839395",
+    "radarColor": "#268bd3",
+    "growingAnimation": true,
+    "saturation": "55%",
+    "contribLightness": ["30%", "36%", "42%", "48%", "55%"],
+    "duration": "10s",
+    "hueRatio": -7
+  }
+}
